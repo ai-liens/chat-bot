@@ -1,0 +1,43 @@
+[
+  {
+    "content": "Our company policy allows 20 days of paid vacation per year. Employees can carry over up to 5 unused days to the next year.",
+    "source": "HR Policy"
+  },
+  {
+    "content": "The IT helpdesk is available Monday to Friday, 9 AM to 6 PM. For urgent issues outside these hours, call the emergency hotline at ext. 911.",
+    "source": "IT Support"
+  },
+  {
+    "content": "All expense reports must be submitted within 30 days of the expense date. Receipts are required for expenses over $50.",
+    "source": "Finance Policy"
+  },
+  {
+    "content": "Our office is located at 123 Tech Street, Silicon Valley, CA. The main reception is on the 5th floor.",
+    "source": "Office Info"
+  },
+  {
+    "content": "New employees must complete onboarding training within their first week. This includes security awareness, company culture, and role-specific training.",
+    "source": "HR Policy"
+  },
+  {
+    "content": "Remote work is allowed up to 3 days per week. Employees must coordinate with their team lead and update their calendar accordingly.",
+    "source": "Work Policy"
+  },
+  {
+    "content": "Health insurance enrollment must be completed within 30 days of your start date. The company covers 80% of the premium for employees and 50% for dependents.",
+    "source": "Benefits"
+  },
+  {
+    "content": "All employees are required to complete annual security training and acknowledge the company's information security policy.",
+    "source": "Security Policy"
+  },
+  {
+    "content": "The company provides a 401(k) retirement plan with a 4% employer match. Employees are eligible to enroll after 90 days of employment.",
+    "source": "Benefits"
+  },
+  {
+    "content": "Parking passes can be requested from the facilities team. Monthly parking is available in the adjacent parking structure.",
+    "source": "Office Info"
+  }
+]
+
